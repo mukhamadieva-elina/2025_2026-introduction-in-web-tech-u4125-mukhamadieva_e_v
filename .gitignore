@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.env
+.coverage
+.pytest_cache
+.mypy_cache
+.ruff_cache
+coverage.xml
+report.xml

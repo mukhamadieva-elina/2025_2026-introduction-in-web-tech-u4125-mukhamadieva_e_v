@@ -1,0 +1,9 @@
+University: [ITMO University](https://itmo.ru/ru/)\
+Faculty: [FICT](https://fict.itmo.ru)\
+Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)\
+Year: 2025/2026\
+Group: U4125\
+Author: Mukhamadieva Elina Varisovna\
+Lab: Lab1\
+Date of create: \
+Date of finished:
