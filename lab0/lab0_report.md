@@ -6,7 +6,7 @@ Group: U4125\
 Author: Mukhamadieva Elina Varisovna\
 Lab: Lab0\
 Date of create: 01.03.2026 \
-Date of finished 01.03.2026 \
+Date of finished \
 
 Ход работы:
 1) Аккаунт на GitHub уже существовал, был сгенерирован новый SSH ключ для работы с репозиториями

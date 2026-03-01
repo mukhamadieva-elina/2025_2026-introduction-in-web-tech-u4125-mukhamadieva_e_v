@@ -6,7 +6,7 @@ Group: U4125\
 Author: Mukhamadieva Elina Varisovna\
 Lab: Lab1\
 Date of create: 02.03.2026\
-Date of finished: 02.03.2026
+Date of finished:
 
 Ход работы:
 1) Docker Desktop уже установлен 
